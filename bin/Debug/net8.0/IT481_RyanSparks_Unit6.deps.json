@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IT481_RyanSparks_Unit6/1.0.0": {
+        "runtime": {
+          "IT481_RyanSparks_Unit6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT481_RyanSparks_Unit6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
